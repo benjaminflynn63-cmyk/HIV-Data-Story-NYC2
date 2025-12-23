@@ -1,0 +1,68 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f7f7f7;
+}
+
+/* Container for content */
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+.head {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.subhead {
+    color: #34495e;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* Images */
+.top-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Byline and date */
+.byline {
+    font-style: italic;
+    color: #555;
+}
+
+.date {
+    color: #888;
+    font-size: 0.9em;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 15px;
+}
+
+/* Location span */
+.location {
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
